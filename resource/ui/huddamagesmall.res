@@ -9,7 +9,7 @@
 		"PositiveColor"								"50 255 0 255"
 		"NegativeColor"								""
 		"delta_lifetime"							"2"
-		"delta_item_font"							"DamageMediumShadow"
-		"delta_item_font_big"						"DamageMediumShadow"
+		"delta_item_font"							"DamageSmall"
+		"delta_item_font_big"						"DamageSmall"
 	}
 }

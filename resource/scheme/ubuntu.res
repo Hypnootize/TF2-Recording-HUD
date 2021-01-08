@@ -2,13 +2,22 @@ Scheme
 {
 	Fonts
 	{
+		"DamageSmall"
+		{
+			"1"
+			{
+				"name"			"Ubuntu Bold"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		"DamageSmallShadow"
 		{
 			"1"
 			{
-				"name"			"Handel Gothic BT"
-				"tall"			"16"
-				"weight"		"500"
+				"name"			"Ubuntu Bold"
+				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"1"
 				"dropshadow"	"1"
@@ -18,21 +27,29 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Handel Gothic BT"
-				"tall"			"16"
-				"weight"		"500"
+				"name"			"Ubuntu Bold"
+				"tall"			"18"
 				"additive"		"0"
 				"antialias" 	"1"
 				"outline" 		"1"
+			}
+		}
+		"DamageMedium"
+		{
+			"1"
+			{
+				"name"			"Ubuntu Bold"
+				"tall"			"22"
+				"additive"		"0"
+				"antialias"		"1"
 			}
 		}
 		"DamageMediumShadow"
 		{
 			"1"
 			{
-				"name"			"Handel Gothic BT"
-				"tall"			"20"
-				"weight"		"500"
+				"name"			"Ubuntu Bold"
+				"tall"			"22"
 				"additive"		"0"
 				"antialias"		"1"
 				"dropshadow"	"1"
@@ -42,21 +59,29 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Handel Gothic BT"
-				"tall"			"20"
-				"weight"		"500"
+				"name"			"Ubuntu Bold"
+				"tall"			"22"
 				"additive"		"0"
 				"antialias" 	"1"
 				"outline" 		"1"
+			}
+		}
+		"DamageBig"
+		{
+			"1"
+			{
+				"name"			"Ubuntu Bold"
+				"tall"			"28"
+				"additive"		"0"
+				"antialias"		"1"
 			}
 		}
 		"DamageBigShadow"
 		{
 			"1"
 			{
-				"name"			"Handel Gothic BT"
+				"name"			"Ubuntu Bold"
 				"tall"			"28"
-				"weight"		"500"
 				"additive"		"0"
 				"antialias"		"1"
 				"dropshadow"	"1"
@@ -66,9 +91,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Handel Gothic BT"
+				"name"			"Ubuntu Bold"
 				"tall"			"28"
-				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
 				"outline" 		"1"
@@ -79,12 +103,20 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Handel Gothic BT"
-				"tall"			"10"
-				"weight"		"500"
+				"name"			"Ubuntu Bold"
+				"tall"			"11"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
+		}
+	}
+
+	CustomFontFiles
+	{
+		"20" 
+		{
+			"font" "resource/fonts/Ubuntu.ttf"
+			"name" "Ubuntu Bold"
 		}
 	}
 }

@@ -2,13 +2,22 @@ Scheme
 {
 	Fonts
 	{
+		"DamageSmall"
+		{
+			"1"
+			{
+				"name"			"NexaBold"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 		"DamageSmallShadow"
 		{
 			"1"
 			{
 				"name"			"NexaBold"
 				"tall"			"18"
-				"weight"		"500"
 				"additive"		"0"
 				"antialias"		"1"
 				"dropshadow"	"1"
@@ -20,10 +29,19 @@ Scheme
 			{
 				"name"			"NexaBold"
 				"tall"			"18"
-				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
 				"outline" 		"1"
+			}
+		}
+		"DamageMedium"
+		{
+			"1"
+			{
+				"name"			"NexaBold"
+				"tall"			"22"
+				"additive"		"0"
+				"antialias"		"1"
 			}
 		}
 		"DamageMediumShadow"
@@ -32,7 +50,6 @@ Scheme
 			{
 				"name"			"NexaBold"
 				"tall"			"22"
-				"weight"		"500"
 				"additive"		"0"
 				"antialias"		"1"
 				"dropshadow"	"1"
@@ -44,10 +61,19 @@ Scheme
 			{
 				"name"			"NexaBold"
 				"tall"			"22"
-				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
 				"outline" 		"1"
+			}
+		}
+		"DamageBig"
+		{
+			"1"
+			{
+				"name"			"NexaBold"
+				"tall"			"28"
+				"additive"		"0"
+				"antialias"		"1"
 			}
 		}
 		"DamageBigShadow"
@@ -56,7 +82,6 @@ Scheme
 			{
 				"name"			"NexaBold"
 				"tall"			"28"
-				"weight"		"500"
 				"additive"		"0"
 				"antialias"		"1"
 				"dropshadow"	"1"
@@ -68,7 +93,6 @@ Scheme
 			{
 				"name"			"NexaBold"
 				"tall"			"28"
-				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
 				"outline" 		"1"
@@ -81,10 +105,18 @@ Scheme
 			{
 				"name"			"NexaBold"
 				"tall"			"11"
-				"weight"		"500"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
+		}
+	}
+
+	CustomFontFiles
+	{
+		"20" 
+		{
+			"font" "resource/fonts/Nexa.otf"
+			"name" "NexaBold"
 		}
 	}
 }

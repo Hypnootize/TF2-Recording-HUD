@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Handel Gothic BT"
 				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"1"
@@ -16,7 +16,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Handel Gothic BT"
 				"tall"			"18"
 				"additive"		"0"
 				"antialias"		"1"
@@ -27,7 +27,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Handel Gothic BT"
 				"tall"			"18"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -38,7 +38,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Handel Gothic BT"
 				"tall"			"22"
 				"additive"		"0"
 				"antialias"		"1"
@@ -48,7 +48,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Handel Gothic BT"
 				"tall"			"22"
 				"additive"		"0"
 				"antialias"		"1"
@@ -59,7 +59,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Handel Gothic BT"
 				"tall"			"22"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -70,7 +70,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Handel Gothic BT"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
@@ -80,7 +80,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Handel Gothic BT"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias"		"1"
@@ -91,7 +91,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary"
+				"name"			"Handel Gothic BT"
 				"tall"			"28"
 				"additive"		"0"
 				"antialias" 	"1"
@@ -103,20 +103,20 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"TF2 Secondary"
-				"tall"			"12"
+				"name"			"Handel Gothic BT"
+				"tall"			"11"
 				"additive"		"0"
 				"antialias" 	"1"
 			}
 		}
 	}
-
+	
 	CustomFontFiles
 	{
 		"20" 
 		{
-			"font" "resource/fonts/TF2.ttf"
-			"name" "TF2 Secondary"
+			"font" "resource/fonts/Handel Gothic.ttf"
+			"name" "Handel Gothic BT"
 		}
 	}
 }

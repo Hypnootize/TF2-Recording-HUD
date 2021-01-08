@@ -1,16 +1,41 @@
-#base "../customization/Killfeed.res"
+#base "../#customization/Killfeed.res"
 
 "Resource/HudLayout.res"
 {
+	HudDeathNotice
+	{
+		"fieldName" 			"HudDeathNotice"
+		"visible" 				"1"
+		"enabled" 				"1"
+		"wide"					"628"
+		"tall"	 				"468"
+
+		"MaxDeathNotices" 		"4"
+		"LineHeight"	  		"16"
+		"LineSpacing"	  		"4"
+		"CornerRadius"	  		"3"
+		"RightJustify"	  		"1"
+		
+		"TextFont"				"Default"
+		
+		"TeamBlue"				"HUDBlueTeamSolid"
+		"TeamRed"				"HUDRedTeamSolid"
+		"IconColor"				"HudWhite"
+		"LocalPlayerColor"		"HUDBlack"
+
+		"BaseBackgroundColor"	"46 43 42 220"
+		"LocalBackgroundColor"	"245 229 196 200"
+	}
+
 	CDamageAccountPanel
 	{
-		"fieldName"				"CDamageAccountPanel"
-		"xpos"					"-5"
-		"ypos"					"-5"
-		"wide"					"f0"
-		"tall"					"480"
-		"visible"				"1"
-		"enabled"				"1"
+		"fieldName"		"CDamageAccountPanel"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
 	}
 	
 	///////////////////////////////////////////////
