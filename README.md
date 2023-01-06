@@ -4,6 +4,8 @@ Customizable TF2 Recording HUD
 
 This HUD is edited to show only the Killfeed and Damage making it ideal for clips recording, can be also used alongside Lawena.
 
+Comes with the most common fonts used in HUDs pre-installed making it easy to recreate any existing killfeed and damage numbers!
+
 ![Logo](https://i.imgur.com/SvbpTtd.png)
 
 [SCREENSHOTS](https://imgur.com/a/PuONMo7)
